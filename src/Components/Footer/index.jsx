@@ -257,7 +257,7 @@ const Footer = () => {
                 rel="noreferrer"
                 aria-label="Twitter"
               >
-                <i className="fab fa-twitter"></i>
+                <i className="fa fa-twitter"></i>
               </a>
             </li>
             <li>
@@ -267,7 +267,7 @@ const Footer = () => {
                 rel="noreferrer"
                 aria-label="Youtube"
               >
-                <i className="fab fa-youtube"></i>
+                <i className="fa fa-youtube"></i>
               </a>
             </li>
             <li>
@@ -277,7 +277,7 @@ const Footer = () => {
                 rel="noreferrer"
                 aria-label="facebook"
               >
-                <i className="fab fa-facebook"></i>
+                <i className="fa fa-facebook"></i>
               </a>
             </li>
             <li>
@@ -287,7 +287,7 @@ const Footer = () => {
                 rel="noreferrer"
                 aria-label="linkedin"
               >
-                <i className="fab fa-linkedin"></i>
+                <i className="fa fa-linkedin"></i>
               </a>
             </li>
           </ul>

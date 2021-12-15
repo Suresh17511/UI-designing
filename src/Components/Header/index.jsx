@@ -64,7 +64,7 @@ const Header = () => {
             rel="noreferrer"
             aria-label="User Login"
           >
-            <i className="fas fa-user-circle"></i>
+            <i className="fa fa-user-circle"></i>
           </a>
         </div>
         <div className="mobile_nav">
@@ -74,7 +74,7 @@ const Header = () => {
             rel="noreferrer"
             aria-label="menu bar"
           >
-            <i className="fas fa-bars"></i>
+            <i className="fa fa-bars"></i>
           </a>
         </div>
       </div>

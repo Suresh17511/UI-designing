@@ -22,7 +22,7 @@ const Testimonials = () => {
           />
           <h4>Levi Jackson</h4>
           <p>Founder of Surya Techs</p>
-          <i className="fas fa-star"></i>
+          <i className="fa fa-certificate"></i>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
@@ -36,7 +36,7 @@ const Testimonials = () => {
           />
           <h4>Sebastian Mateo</h4>
           <p>CEO and Executive Manager </p>
-          <i className="fas fa-award"></i>
+          <i className="fa fa-line-chart"></i>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
@@ -50,7 +50,7 @@ const Testimonials = () => {
           />
           <h4>Jack Owen</h4>
           <p>Chief Head of Operations</p>
-          <i className="fas fa-hand-holding-usd"></i>
+          <i className="fa fa-diamond"></i>
           <p>
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. Lorem Ipsum has been the industry's standard dummy text
