@@ -1027,6 +1027,16 @@
   margin-bottom: 40px;
 }
 
+.chat_app {
+  position: -webkit-sticky;
+  position: sticky;
+  left: 195vh;
+  padding: 10px;
+  display: inline-block;
+  border-radius: 50%;
+  background-color: #fff;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -1074,5 +1084,12 @@ button {
 button:hover, button:focus {
   background-color: #ffffff;
   color: #003349;
+}
+
+.chat_container {
+  position: -webkit-sticky;
+  position: sticky;
+  bottom: 5vh;
+  padding: 0;
 }
 /*# sourceMappingURL=main.css.map */

@@ -5,6 +5,7 @@
 @import "../Components/Header/header";
 @import "../Components/Main/HeroSection/hero_section";
 @import "../Components/Main/Testimonials/testimonials";
+@import "../Components/Chat/chat";
 
 * {
   padding: 0;
@@ -51,4 +52,9 @@ button {
     background-color: $c;
     color: $b;
   }
+}
+.chat_container {
+  position: sticky;
+  bottom: 5vh;
+  padding: 0;
 }
